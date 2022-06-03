@@ -1,0 +1,1 @@
+Criei esse repositório com intuito de arquivamento de códigos do projeto de automação residencial de meu apartamento, nomeei de FranZan pois são as iniciais do meu sobrenome e de minha noiva.
